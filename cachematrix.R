@@ -1,5 +1,5 @@
-## JHU R Prog Week 2
-## Cache Matrix Assignment
+## JHU R Prog Week 2 Assignment
+## Lexical Scoping: Cache Matrix and Inverse
 ## Kanti Keislar
 
 ## Creates a set of functions to set and get a matrix 'x' and its inverse

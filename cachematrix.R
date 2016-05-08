@@ -1,5 +1,6 @@
-## Put comments here that give an overall description of what your
-## functions do
+## JHU R Prog Week 2
+## Cache Matrix Assignment
+## Kanti Keislar
 
 ## Creates a set of functions to set and get a matrix 'x' and its inverse
 
